@@ -1,3 +1,5 @@
-1. Membuat Akun GitHub di website
-Buka situs GitHub lewat browser di komputer kamu.
-Klik tombol Sign up (daftar) di pojok kanan atas.
+1. Membuat Akun GitHub di website :
+- Buka situs GitHub lewat browser di komputer kamu.
+- Klik tombol Sign up (daftar) di pojok kanan atas.
+- Masukkan alamat email, buat kata sandi (password), dan tentukan nama pengguna (username).
+- Buka email masuk dari GitHub untuk melakukan verifikasi akun.
