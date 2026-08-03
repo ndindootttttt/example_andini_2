@@ -1,0 +1,8 @@
+3. Mengirim File dari Komputer (Upload)
+- Buka folder proyek di Visual Studio Code.
+- Tambahkan atau edit file, lalu Save dengan Ctrl + S.
+- Buka menu Source Control, tulis pesan commit, lalu klik Commit.
+- Klik Publish Branch atau Publish to GitHub.
+- Jika ingin repository bisa dilihat semua orang, pilih Public (matikan opsi Private), lalu klik Publish.
+- Setiap ada perubahan, Save, Commit, lalu Push agar perubahan tersimpan di GitHub.
+- Jika repository Public, link GitHub dapat dibagikan kepada siapa saja.
