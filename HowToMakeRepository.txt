@@ -1,0 +1,4 @@
+2. Membuat Tempat File (Repository)
+- Masuk (sign in) ke akun GitHub kamu.Di halaman utama (beranda)
+- Klik icon plus di opsi sebelah kiri
+- masukkan nama repository yang kamu inginkan
