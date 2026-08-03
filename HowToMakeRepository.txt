@@ -1,4 +1,8 @@
 2. Membuat Tempat File (Repository)
 - Masuk (sign in) ke akun GitHub kamu.Di halaman utama (beranda)
 - Klik icon plus di opsi sebelah kiri
-- masukkan nama repository yang kamu inginkan
+- Masukkan nama repository yang kamu inginkan
+- Pilih tempat dimana kamu akan menyimpan folder (sebaiknya di Local D dan membuat folder lagi khusus github agar rapi)
+- Pada Git-Ignored pilih Node
+- Opsi License pilih MIT-Licanse
+- klik next/create
